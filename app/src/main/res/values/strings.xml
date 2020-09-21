@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NdkSo</string>
+    <string name="euphonium">上低音号</string>
+    <string name="violet">紫罗兰</string>
+    <string name="ahh">这是什么</string>
+    <string name="unload">卸载so</string>
+</resources>
